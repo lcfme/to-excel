@@ -1,0 +1,16 @@
+{
+  "name": "to-excel",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin.js",
+  "author": "Liu Chaofan Mr",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.12.0",
+    "yargs": "^11.0.0"
+  }
+}
